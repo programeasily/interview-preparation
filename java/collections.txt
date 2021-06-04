@@ -1,0 +1,10 @@
+What is the Collection ?
+1.A Framework, Group of classes and interfaces used to store and manage the objects.
+
+What is the hashCode()?
+1.returns an integer hash code
+
+Basic interfaces of the Java collections ?
+1.Set -> No dupilicates. using hashtable to store the elements
+2.List -> Ordered and contains dupilicates. having dynamic length
+3.Map -> Object, Key Value Pair. Key can not be dupilcate.
